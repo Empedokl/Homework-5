@@ -197,7 +197,7 @@ a{
     
 }
 
-.team-list-item:hover.overlay{
+.team-list-item:hover .overlay{
     opacity: 1;  
 }
 
